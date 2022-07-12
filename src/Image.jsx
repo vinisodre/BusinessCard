@@ -1,10 +1,11 @@
 import React from 'react';
 import styled from 'styled-components'
+import Imagem from './img/Girl.png'
 
 function Image() {
   return (
     <div>
-      <TopImg src="https://www.dicasdemulher.com.br/wp-content/uploads/2021/08/maquiagem-e-girl-0001.png" />
+      <TopImg src={Imagem} />
     </div>
     
   );

@@ -9,10 +9,18 @@ font-family: 'Karla', sans-serif;
 main{
   width:327px;
   background:#1A1B21;
-  margin: 0 auto;
-  border-radius:20px;
-  
+  margin: 30px auto;
+border-radius:10px;
 }
+
+.wrapper{
+  padding: 0 35px;
+}
+
+.mainText{
+  margin-top:33px;
+}
+
 
 .btn-section{
   display:flex;
